@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors['rustc_serialize'] = [];
+implementors["coaster_blas"] = [];
 
             if (window.register_implementors) {
                 window.register_implementors(implementors);
